@@ -1,0 +1,17 @@
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.deps.json
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.json
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.dev.json
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.dll
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.pdb
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.dll
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csprojAssemblyReference.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CoreCompileInputs.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cs
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfoInputs.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfo.cs
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorTargetAssemblyInfo.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CopyComplete
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.dll
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.pdb

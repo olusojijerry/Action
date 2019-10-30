@@ -1,0 +1,9 @@
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.deps.json
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.dll
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.pdb
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csprojAssemblyReference.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfoInputs.cache
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfo.cs
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.dll
+C:\Users\DIADEM\Desktop\Jerry\Jerry\DiademJerry\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.pdb
